@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_radius">25dp</dimen>3
+    <dimen name="diag_angle">18dp</dimen>
+    <integer name="diag_angle">18</integer>
+</resources>

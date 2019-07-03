@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Event_notifications</string>
+    <string name="login">Login</string>
+    <string name="email">EMAIL/MOBILE</string>
+    <string name="email_hint">Email</string>
+    <string name="password">PASSWORD</string>
+    <string name="pass_hint">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="dont_have_acc">Don\'t have an account?</string>
+    <string name="name">NAME</string>
+    <string name="name_hint">Name</string>
+    <string name="agreement">Agree to terms and conditions</string>
+    <string name="already_have_acc">Already have an account?</string>
+</resources>
